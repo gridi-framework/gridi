@@ -40,6 +40,7 @@
         "gridi-framework-videos": "*",
         "gridi-framework-frames": "*",
         "gridi-framework-buttons": "*",
-        "gridi-framework-forms": "*"
+        "gridi-framework-forms": "*",
+        "gridi-framework-float-helpers": "*"
     }
 }
