@@ -4,7 +4,7 @@ Bind all Gridi Framework components in one file.
 
 ## Install
 
-`brew install gridi-framework`
+`bower install gridi-framework`
 
 ## Usage
 
