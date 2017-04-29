@@ -43,6 +43,7 @@
         "gridi-framework-forms": "*",
         "gridi-framework-float-helpers": "*",
         "gridi-framework-visibility-helpers": "*",
-        "gridi-framework-display-helpers": "*"
+        "gridi-framework-display-helpers": "*",
+        "gridi-framework-typography-helpers": "*"
     }
 }
