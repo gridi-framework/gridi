@@ -1,0 +1,45 @@
+{
+    "name": "gridi-framework",
+    "description": "",
+    "main": "",
+    "authors": [
+        "Przemysław Dziadek <przemyslaw.dziadek@gmail.com>"
+    ],
+    "license": "MIT",
+    "keywords": [
+        "css",
+        "scss",
+        "gridi",
+        "framework"
+    ],
+    "homepage": "https://github.com/gridi-framework/gridi",
+    "ignore": [
+        "**/.*",
+        "**/*.md",
+        "**/*.js",
+        "**/*.json",
+        "node_modules",
+        "bower_components"
+    ],
+    "dependencies": {
+        "gridi-framework-core": "*",
+        "gridi-framework-grid": "*",
+        "gridi-framework-flexbox-grid": "*",
+        "gridi-framework-document": "*",
+        "gridi-framework-semantics": "*",
+        "gridi-framework-headers": "*",
+        "gridi-framework-paragraphs": "*",
+        "gridi-framework-thematic-break-line": "*",
+        "gridi-framework-formating": "*",
+        "gridi-framework-links": "*",
+        "gridi-framework-lists": "*",
+        "gridi-framework-tables": "*",
+        "gridi-framework-progress-bars": "*",
+        "gridi-framework-images": "*",
+        "gridi-framework-audios": "*",
+        "gridi-framework-videos": "*",
+        "gridi-framework-frames": "*",
+        "gridi-framework-buttons": "*",
+        "gridi-framework-forms": "*"
+    }
+}
