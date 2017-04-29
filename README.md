@@ -10,7 +10,7 @@ Bind all Gridi Framework components in one file.
 
 Add to your sass file the line:
 
-`@import <your-bower-folder-path>/gridi/gridi`
+`@import <your-bower-folder-path>/gridi-framework/gridi`
 
 and after that you added all gridi framework styles.
 
