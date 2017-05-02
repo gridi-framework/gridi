@@ -44,6 +44,8 @@
         "gridi-framework-float-helpers": "*",
         "gridi-framework-visibility-helpers": "*",
         "gridi-framework-display-helpers": "*",
-        "gridi-framework-typography-helpers": "*"
+        "gridi-framework-typography-helpers": "*",
+        "gridi-framework-colors-helpers": "*",
+        "gridi-framework-buttons-colors-helpers": "*"
     }
 }
