@@ -47,6 +47,9 @@
         "gridi-framework-display-helpers": "*",
         "gridi-framework-typography-helpers": "*",
         "gridi-framework-colors-helpers": "*",
+        "gridi-framework-headers-colors-helpers": "*",
+        "gridi-framework-thematic-break-line-colors-helpers": "*",
+        "gridi-framework-formating-colors-helpers": "*",
         "gridi-framework-buttons-colors-helpers": "*"
     }
 }
