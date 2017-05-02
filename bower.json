@@ -39,6 +39,7 @@
         "gridi-framework-audios": "*",
         "gridi-framework-videos": "*",
         "gridi-framework-frames": "*",
+        "gridi-framework-buttons-core": "*",
         "gridi-framework-buttons": "*",
         "gridi-framework-forms": "*",
         "gridi-framework-float-helpers": "*",
