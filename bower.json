@@ -46,10 +46,23 @@
         "gridi-framework-visibility-helpers": "*",
         "gridi-framework-display-helpers": "*",
         "gridi-framework-typography-helpers": "*",
+
+        "gridi-framework-background-colors-helpers": "*",
+        "gridi-framework-headers-bg-col-support": "*",
+        "gridi-framework-thematic-break-line-bg-col-support": "*",
+        "gridi-framework-formating-bg-col-support": "*",
+        "gridi-framework-tables-bg-col-support": "*",
+        "gridi-framework-links-bg-col-support": "*",
+        "gridi-framework-progress-bars-bg-col-support": "*",
+
+        "gridi-framework-buttons-bg-col-support": "*",
+
         "gridi-framework-colors-helpers": "*",
-        "gridi-framework-headers-colors-helpers": "*",
         "gridi-framework-thematic-break-line-colors-helpers": "*",
         "gridi-framework-formating-colors-helpers": "*",
+        "gridi-framework-links-colors-helpers": "*",
+        "gridi-framework-tables-colors-helpers": "*",
+        "gridi-framework-progress-bars-colors-helpers": "*",
         "gridi-framework-buttons-colors-helpers": "*"
     }
 }

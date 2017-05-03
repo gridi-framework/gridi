@@ -1,3 +1,4 @@
+//Default elements
 @import '../gridi-framework-core/core';
 @import '../gridi-framework-grid/grid';
 @import '../gridi-framework-flexbox-grid/flexbox-grid';
@@ -22,9 +23,21 @@
 @import '../gridi-framework-visibility-helpers/visibility-helpers';
 @import '../gridi-framework-display-helpers/display-helpers';
 @import '../gridi-framework-typography-helpers/typography-helpers';
+//Background colors helpers
+@import '../gridi-framework-background-colors-helpers/background-colors-helpers';
+@import '../gridi-framework-headers-bg-col-support/headers-background-colors-support';
+@import '../gridi-framework-thematic-break-line-bg-col-support/thematic-break-line-background-colors-support';
+@import '../gridi-framework-formating-bg-col-support/formating-background-colors-support';
+@import '../gridi-framework-tables-bg-col-support/tables-background-colors-support';
+@import '../gridi-framework-links-bg-col-support/links-background-colors-support';
+@import '../gridi-framework-progress-bars-bg-col-support/progress-bars-background-colors-support';
+
+@import '../gridi-framework-buttons-bg-col-support/buttons-background-colors-support';
+//Colors helpers
 @import '../gridi-framework-colors-helpers/colors-helpers';
-@import '../gridi-framework-headers-colors-helpers/headers-colors-helpers';
 @import '../gridi-framework-thematic-break-line-colors-helpers/thematic-break-line-colors-helpers';
 @import '../gridi-framework-formating-colors-helpers/formating-colors-helpers';
-
+@import '../gridi-framework-links-colors-helpers/links-colors-helpers';
+@import '../gridi-framework-tables-colors-helpers/tables-colors-helpers';
+@import '../gridi-framework-progress-bars-colors-helpers/progress-bars-colors-helpers';
 @import '../gridi-framework-buttons-colors-helpers/buttons-colors-helpers';
