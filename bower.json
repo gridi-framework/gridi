@@ -41,7 +41,11 @@
         "gridi-framework-frames": "*",
         "gridi-framework-buttons-core": "*",
         "gridi-framework-buttons": "*",
-        "gridi-framework-forms": "*",
+        "gridi-framework-forms-core": "*",
+        "gridi-framework-forms-text-inputs": "*",
+        "gridi-framework-forms-checkboxes-and-radio": "*",
+        "gridi-framework-forms-selects": "*",
+        "gridi-framework-forms-ranges": "*",
         "gridi-framework-float-helpers": "*",
         "gridi-framework-visibility-helpers": "*",
         "gridi-framework-display-helpers": "*",
@@ -54,8 +58,11 @@
         "gridi-framework-tables-bg-col-support": "*",
         "gridi-framework-links-bg-col-support": "*",
         "gridi-framework-progress-bars-bg-col-support": "*",
-
         "gridi-framework-buttons-bg-col-support": "*",
+        "gridi-framework-forms-core-bg-col-support": "*",
+        "gridi-framework-forms-text-inputs-bg-col-support": "*",
+        "gridi-framework-forms-selects-bg-col-support": "*",
+        "gridi-framework-forms-ranges-bg-col-support": "*",
 
         "gridi-framework-colors-helpers": "*",
         "gridi-framework-thematic-break-line-colors-helpers": "*",
@@ -63,6 +70,9 @@
         "gridi-framework-links-colors-helpers": "*",
         "gridi-framework-tables-colors-helpers": "*",
         "gridi-framework-progress-bars-colors-helpers": "*",
-        "gridi-framework-buttons-colors-helpers": "*"
+        "gridi-framework-buttons-colors-helpers": "*",
+        "gridi-framework-forms-text-inputs-colors-helpers": "*",
+        "gridi-framework-forms-selects-colors-helpers": "*",
+        "gridi-framework-forms-ranges-colors-helpers": "*"
     }
 }

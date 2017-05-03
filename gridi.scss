@@ -18,7 +18,11 @@
 @import '../gridi-framework-frames/frames';
 @import '../gridi-framework-buttons-core/buttons-core';
 @import '../gridi-framework-buttons/buttons';
-@import '../gridi-framework-forms/forms';
+@import '../gridi-framework-forms-core/forms-core';
+@import '../gridi-framework-forms-text-inputs/forms-text-inputs';
+@import '../gridi-framework-forms-checkboxes-and-radio/forms-checkboxes-and-radio';
+@import '../gridi-framework-forms-selects/forms-selects';
+@import '../gridi-framework-forms-ranges/forms-ranges';
 @import '../gridi-framework-float-helpers/float-helpers';
 @import '../gridi-framework-visibility-helpers/visibility-helpers';
 @import '../gridi-framework-display-helpers/display-helpers';
@@ -31,8 +35,11 @@
 @import '../gridi-framework-tables-bg-col-support/tables-background-colors-support';
 @import '../gridi-framework-links-bg-col-support/links-background-colors-support';
 @import '../gridi-framework-progress-bars-bg-col-support/progress-bars-background-colors-support';
-
 @import '../gridi-framework-buttons-bg-col-support/buttons-background-colors-support';
+@import '../gridi-framework-forms-core-bg-col-support/forms-core-background-colors-support';
+@import '../gridi-framework-forms-text-inputs-bg-col-support/forms-text-inputs-background-colors-support';
+@import '../gridi-framework-forms-selects-bg-col-support/forms-selects-background-colors-support';
+@import '../gridi-framework-forms-ranges-bg-col-support/forms-ranges-background-colors-support';
 //Colors helpers
 @import '../gridi-framework-colors-helpers/colors-helpers';
 @import '../gridi-framework-thematic-break-line-colors-helpers/thematic-break-line-colors-helpers';
@@ -41,3 +48,6 @@
 @import '../gridi-framework-tables-colors-helpers/tables-colors-helpers';
 @import '../gridi-framework-progress-bars-colors-helpers/progress-bars-colors-helpers';
 @import '../gridi-framework-buttons-colors-helpers/buttons-colors-helpers';
+@import '../gridi-framework-forms-text-inputs-colors-helpers/forms-text-inputs-colors-helpers';
+@import '../gridi-framework-forms-selects-colors-helpers/forms-selects-colors-helpers';
+@import '../gridi-framework-forms-ranges-colors-helpers/forms-ranges-colors-helpers';
