@@ -25,6 +25,7 @@
         "gridi-framework-core": "*",
         "gridi-framework-grid": "*",
         "gridi-framework-flexbox-grid": "*",
+        "gridi-framework-grid-offset-columns": "*",
         "gridi-framework-document": "*",
         "gridi-framework-semantics": "*",
         "gridi-framework-headers": "*",
